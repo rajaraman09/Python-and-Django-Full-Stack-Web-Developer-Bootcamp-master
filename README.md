@@ -2,7 +2,7 @@ https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp
 
 Notes & coursework
 
-Projects
+Projects:
 Spectrum: html, css
 Landing Page
 Coffee Lover Project : main, sign in
