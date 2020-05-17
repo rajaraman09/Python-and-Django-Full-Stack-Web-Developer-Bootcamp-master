@@ -1,15 +1,27 @@
-https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp
+# Udemy Course - Python and Django Full Stack Web Developer Bootcamp
 
-Notes & coursework
+This is a repository with the course lessons of the Udemy Course: Python and Django Full Stack Web Developer Bootcamp by **José Portilla**.
 
-Projects:
-Spectrum: html, css
-Landing Page
-Coffee Lover Project : main, sign in
-Secret Message Project : page, js
-Tic Tac Toe Project : page, css, js
-Connect Four Project : page, css, js
-Code Guesser Project
-War Card Game
-Company Blog
-Social Media With Groups
+Objective: Learn to build websites with **HTML, CSS, Bootstrap, Javascript, jQuery, Python 3, and Django 1.10!**
+
+## Getting Started
+You can download each folder individually by topic, or clone the complete repository with all the lessons available.
+
+## Course Content
+
+The course is divided in the following topics:
+
+1. HTML
+2. CSS
+3. Bootstrap
+4. JavaScript
+5. DOM (Document Object Model)
+6. jQuery
+7. Python
+8. Django
+
+## Acknowledgments
+
+Thanks Jose for the excellent work!
+
+You can follow the course in the [Udemy site](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/).
